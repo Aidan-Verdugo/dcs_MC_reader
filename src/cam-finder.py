@@ -1,0 +1,1 @@
+#script for finding main cam

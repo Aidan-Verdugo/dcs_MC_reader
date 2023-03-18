@@ -1,0 +1,1 @@
+#this script will process the image provided by the camera.py script
